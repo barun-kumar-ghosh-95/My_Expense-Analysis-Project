@@ -1,0 +1,80 @@
+Date,Category,Description,Amount,Payment_Mode
+1/12/2025,Food,Breakfast,23,Cash
+1/12/2025,Food,Lunch (Standard),40,Cash
+1/12/2025,Food,Dinner,40,Cash
+1/12/2025,Rent,House Rent,1800,UPI
+1/12/2025,Utilities,Electricity Bill,300,UPI
+1/12/2025,Utilities,Water Bill,160,UPI
+1/12/2025,Utilities,Wifi Bill,100,UPI
+2/12/2025,Food,Breakfast,23,Cash
+2/12/2025,Food,Lunch (Standard),40,Cash
+2/12/2025,Food,Dinner,40,Cash
+2/12/2025,Utilities,Mobile Recharge,249,UPI
+3/12/2025,Food,Lunch (Standard),40,Cash
+3/12/2025,Food,Dinner,40,Cash
+3/12/2025,Shopping,Breakfast Component,200,UPI
+4/12/2025,Food,Lunch (Egg Curry),50,Cash
+4/12/2025,Food,Dinner,40,Cash
+4/12/2025,Travel,Bus/Auto Fare,40,Cash
+5/12/2025,Food,Lunch (Fish Thali),60,Cash
+5/12/2025,Food,Dinner,40,Cash
+6/12/2025,Food,Lunch (Standard),40,Cash
+6/12/2025,Food,Dinner,40,Cash
+7/12/2025,Food,Lunch (Fish Thali),60,Cash
+7/12/2025,Food,Dinner,40,Cash
+8/12/2025,Food,Lunch (Standard),40,Cash
+8/12/2025,Food,Dinner,40,Cash
+8/12/2025,Shopping,Breakfast Component,200,UPI
+9/12/2025,Food,Lunch (Standard),40,Cash
+9/12/2025,Food,Dinner,40,Cash
+9/12/2025,Education,Project Components,450,UPI
+10/12/2025,Food,Lunch (Egg Curry),50,Cash
+10/12/2025,Food,Dinner,40,Cash
+11/12/2025,Food,Lunch (Standard),40,Cash
+11/12/2025,Food,Dinner,40,Cash
+11/12/2025,Travel,Local Travel,50,Cash
+12/12/2025,Food,Lunch (Fish Thali),60,Cash
+12/12/2025,Food,Dinner,40,Cash
+12/12/2025,Others,General Needs,200,UPI
+13/12/2025,Food,Lunch (Standard),40,Cash
+13/12/2025,Food,Dinner,40,Cash
+14/12/2025,Food,Lunch (Fish Thali),60,Cash
+14/12/2025,Food,Dinner,40,Cash
+15/12/2025,Food,Lunch (Standard),40,Cash
+15/12/2025,Food,Dinner,40,Cash
+16/12/2025,Food,Lunch (Standard),40,Cash
+16/12/2025,Food,Dinner,40,Cash
+16/12/2025,Shopping,Breakfast Component,200,UPI
+17/12/2025,Food,Lunch (Egg Curry),50,Cash
+17/12/2025,Food,Dinner,40,Cash
+17/12/2025,Travel,Bus/Auto Fare,40,Cash
+18/12/2025,Food,Lunch (Standard),40,Cash
+18/12/2025,Food,Dinner,40,Cash
+19/12/2025,Food,Lunch (Fish Thali),60,Cash
+19/12/2025,Food,Dinner,40,Cash
+19/12/2025,Education,Study Material,300,UPI
+20/12/2025,Food,Lunch (Standard),40,Cash
+20/12/2025,Food,Dinner,40,Cash
+21/12/2025,Food,Lunch (Fish Thali),60,Cash
+21/12/2025,Food,Dinner,40,Cash
+22/12/2025,Food,Lunch (Standard),40,Cash
+22/12/2025,Food,Dinner,40,Cash
+23/12/2025,Food,Lunch (Standard),40,Cash
+23/12/2025,Food,Dinner,40,Cash
+23/12/2025,Others,Repair/Misc,250,UPI
+24/12/2025,Food,Lunch (Egg Curry),50,Cash
+24/12/2025,Food,Dinner,40,Cash
+25/12/2025,Food,Lunch (Standard),40,Cash
+25/12/2025,Food,Dinner,40,Cash
+25/12/2025,Shopping,Breakfast Component,200,UPI
+25/12/2025,Travel,Local Travel,50,Cash
+26/12/2025,Food,Lunch (Fish Thali),60,Cash
+26/12/2025,Food,Dinner,40,Cash
+27/12/2025,Food,Lunch (Standard),40,Cash
+27/12/2025,Food,Dinner,40,Cash
+28/12/2025,Food,Lunch (Fish Thali),60,Cash
+28/12/2025,Food,Dinner,40,Cash
+29/12/2025,Food,Lunch (Standard),40,Cash
+29/12/2025,Food,Dinner,40,Cash
+30/12/2025,Food,Lunch (Standard),40,Cash
+30/12/2025,Food,Dinner,40,Cash
